@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:23/02/2024
 
 ## AIM:
 To develop a simple webserver to serve html pages.
@@ -24,6 +24,9 @@ Testing the webserver.
 
 
 ## OUTPUT:
+![alt text](<Screenshot 2024-03-15 092631.png>)
+
+![alt text](<Screenshot 2024-03-15 092710.png>)
 
 
 ## RESULT:
